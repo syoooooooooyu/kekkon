@@ -1,5 +1,17 @@
 <?php
 
+/**
+ *    ＿＿＿＿＿   _     ＿   ＿　　  ＿　＿　
+ *   /  ＿＿＿/\ //＿＿ | |  | |\  / /|  | |
+ *   \＿＿＿＿\ \// ＿  \ |  | | \/ / |  | |
+ *    ＿＿＿  \  / |＿| | |__| |   /| \__/ |
+ *   /＿＿＿＿/　/\＿＿＿/\_____/  / \_____/
+ *          /＿/            　 /__/
+ *
+ * @author Syouyu(syoooooooooyu)
+ * @link https://github.com/syoooooooooyu/
+ */
+
 namespace syouyu\kekkon;
 
 use pocketmine\event\player\PlayerJoinEvent;
